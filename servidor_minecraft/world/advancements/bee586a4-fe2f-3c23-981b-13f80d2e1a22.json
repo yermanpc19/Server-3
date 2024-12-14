@@ -576,6 +576,8 @@
       "shrubland": "2024-12-12 10:46:47 +0000",
       "erupting_inferno": "2024-12-14 15:50:54 +0000",
       "cold_desert": "2024-12-10 19:18:50 +0000",
+      "crystalline_chasm": "2024-12-14 20:11:11 +0000",
+      "withered_abyss": "2024-12-14 20:11:04 +0000",
       "field": "2024-12-11 01:07:15 +0000",
       "orchard": "2024-12-12 10:46:36 +0000",
       "coniferous_forest": "2024-12-10 19:19:03 +0000",
@@ -2032,6 +2034,12 @@
   "ic2:energy_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-14 20:14:38 +0000"
     },
     "done": true
   },

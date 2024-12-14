@@ -4190,3 +4190,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 20:04:28.206] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/34557, l='ServerLevel[world]', x=-694.44, y=73.50, z=311.07]
 [14Dec2024 20:06:42.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XD lost connection: Disconnected
 [14Dec2024 20:06:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD left the game
+[14Dec2024 20:14:27.512] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 20:14:27.513] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 20:14:27.513] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 20:14:27.513] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Dec2024 20:14:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has completed the challenge [Subspace Bubble]
+[14Dec2024 20:14:38.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11902ms or 238 ticks behind
+[14Dec2024 20:14:55.777] [Worker-Main-44/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[14Dec2024 20:14:55.780] [Worker-Main-44/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14Dec2024 20:14:55.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> agujero negro?
+[14Dec2024 20:15:04.944] [Worker-Main-43/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[14Dec2024 20:15:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> es mi culo
+[14Dec2024 20:15:19.127] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[14Dec2024 20:15:19.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[14Dec2024 20:15:25.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[14Dec2024 20:15:28.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> estoy a 10mil bloques de la casa la puta madre
+[14Dec2024 20:16:23.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=10021, y=-16, z=-1174} but found not block entity block Block{iter_rpg:hivestone_stairs}[facing=east,half=top,shape=straight,waterlogged=false] at location
+[14Dec2024 20:16:23.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{iter_rpg:hivestone_stairs}[facing=east,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=10021, y=-16, z=-1174}
+[14Dec2024 20:16:37.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> signpost
+[14Dec2024 20:18:13.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[14Dec2024 20:18:15.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[14Dec2024 20:18:15.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[14Dec2024 20:19:56.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
