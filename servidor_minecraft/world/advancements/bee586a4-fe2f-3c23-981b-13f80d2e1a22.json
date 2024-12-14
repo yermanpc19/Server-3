@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
+    },
+    "done": true
+  },
   "ic2:big_ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 23:42:41 +0000"
@@ -591,6 +597,12 @@
     },
     "done": false
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-14 19:58:51 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-10 19:38:43 +0000"
@@ -766,6 +778,7 @@
       "minecraft:pillager": "2024-12-11 20:56:10 +0000",
       "minecraft:blaze": "2024-12-14 16:11:57 +0000",
       "minecraft:skeleton": "2024-12-11 00:17:46 +0000",
+      "minecraft:ghast": "2024-12-14 19:58:51 +0000",
       "minecraft:vindicator": "2024-12-11 20:55:54 +0000",
       "minecraft:magma_cube": "2024-12-14 15:57:08 +0000",
       "minecraft:spider": "2024-12-10 19:25:04 +0000",
@@ -773,6 +786,7 @@
       "minecraft:slime": "2024-12-12 10:35:31 +0000",
       "minecraft:evoker": "2024-12-14 13:48:28 +0000",
       "minecraft:phantom": "2024-12-11 21:02:28 +0000",
+      "minecraft:zombified_piglin": "2024-12-14 20:04:38 +0000",
       "minecraft:witch": "2024-12-13 23:39:51 +0000",
       "minecraft:wither_skeleton": "2024-12-14 16:05:06 +0000",
       "minecraft:enderman": "2024-12-11 00:10:39 +0000",
@@ -1785,6 +1799,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
+    },
+    "done": false
+  },
   "ic2:vent_heat_adv_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
@@ -1884,6 +1904,12 @@
   "ic2:crop_sticks_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
     },
     "done": true
   },
