@@ -4642,3 +4642,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 22:36:17.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
 [14Dec2024 22:36:34.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
 [14Dec2024 22:36:34.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[14Dec2024 22:37:34.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[14Dec2024 22:37:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
