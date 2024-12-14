@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/dt_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-12 16:18:43 +0000"
@@ -14,6 +20,12 @@
   "ic2:pressure_alloy_furnace_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/dt_3": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:10:36 +0000"
     },
     "done": true
   },
@@ -551,7 +563,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -755,7 +767,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -1019,7 +1031,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -1978,7 +1990,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -2050,7 +2062,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -2659,7 +2671,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -4118,7 +4130,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -4190,7 +4202,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -4454,7 +4466,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -4951,7 +4963,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -5674,7 +5686,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
@@ -5705,7 +5717,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 15:06:57 +0000"
+      "log_spam_fixer": "2024-12-14 15:16:57 +0000"
     },
     "done": false
   },
