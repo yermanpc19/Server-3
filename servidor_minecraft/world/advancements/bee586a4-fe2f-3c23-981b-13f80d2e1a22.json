@@ -2698,12 +2698,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-14 21:20:20 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
@@ -3251,6 +3245,12 @@
   "ic2:mug_cocoa_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer": "2024-12-14 21:30:19 +0000"
     },
     "done": true
   },
