@@ -2493,6 +2493,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:31:58 +0000"
+    },
+    "done": true
+  },
   "ic2:ranged_od_scanner_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:12:22 +0000"
@@ -4856,6 +4862,12 @@
   "ic2:monitor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:03:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:31:58 +0000"
     },
     "done": true
   },
