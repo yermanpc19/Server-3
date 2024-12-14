@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 14:58:29 +0000"
+    },
+    "done": true
+  },
   "ic2:crafter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 18:28:21 +0000"
@@ -1066,6 +1072,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-11 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2024-12-14 14:58:29 +0000"
     },
     "done": true
   },
@@ -2510,12 +2522,6 @@
       "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-14 14:56:57 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
