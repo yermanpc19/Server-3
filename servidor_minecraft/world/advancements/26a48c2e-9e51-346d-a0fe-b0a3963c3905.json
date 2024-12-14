@@ -1893,6 +1893,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 20:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-12 21:13:51 +0000"
@@ -3310,6 +3316,7 @@
     "criteria": {
       "entered_stables": "2024-12-12 16:32:43 +0000",
       "entered_pirate_ship": "2024-12-12 13:17:44 +0000",
+      "entered_fishing_ship": "2024-12-14 20:52:14 +0000",
       "entered_deep_crypt": "2024-12-09 20:52:41 +0000",
       "entered_druid_circle": "2024-12-13 03:09:34 +0000",
       "entered_large_dungeon": "2024-12-10 01:12:46 +0000",
@@ -3569,6 +3576,7 @@
       "minecraft:spider": "2024-12-09 03:44:52 +0000",
       "minecraft:creeper": "2024-12-09 03:01:38 +0000",
       "minecraft:slime": "2024-12-12 13:26:12 +0000",
+      "minecraft:evoker": "2024-12-14 20:44:39 +0000",
       "quark:forgotten": "2024-12-09 03:18:24 +0000",
       "minecraft:phantom": "2024-12-12 01:45:33 +0000",
       "minecraft:zombified_piglin": "2024-12-12 21:41:08 +0000",
@@ -4148,6 +4156,7 @@
       "minecraft:windswept_forest": "2024-12-13 03:15:58 +0000",
       "minecraft:ocean": "2024-12-13 03:33:30 +0000",
       "minecraft:snowy_beach": "2024-12-12 16:11:30 +0000",
+      "minecraft:warm_ocean": "2024-12-14 20:50:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 20:40:01 +0000",
       "minecraft:meadow": "2024-12-13 13:41:02 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-12 00:24:56 +0000",

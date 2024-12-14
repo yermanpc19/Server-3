@@ -2336,7 +2336,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-14 20:42:54 +0000"
+      "requirement": "2024-12-14 20:53:10 +0000"
     },
     "done": false
   },
