@@ -4096,3 +4096,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 19:28:39.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [14Dec2024 19:28:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Diamonds!]
 [14Dec2024 19:28:57.967] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[14Dec2024 19:31:38.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Tunnel Treasures]
+[14Dec2024 19:31:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Hidden in the Depths]
+[14Dec2024 19:32:29.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[14Dec2024 19:32:43.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=431, y=14, z=78} BlockPos{x=431, y=14, z=77}
+[14Dec2024 19:33:21.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[14Dec2024 19:33:29.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=416, y=14, z=95} BlockPos{x=416, y=12, z=103}
+[14Dec2024 19:33:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Siamese Skeletons
+[14Dec2024 19:33:30.094] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -828.1006086085778, Y: -50.0, Z: -331.02956785990216
+[14Dec2024 19:33:30.170] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:33:31.889] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:33:35.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:35.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:35.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=414, y=14, z=95} BlockPos{x=413, y=13, z=94}
+[14Dec2024 19:33:36.967] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/16574, l='ServerLevel[world]', x=-828.10, y=-48.50, z=-331.03]
+[14Dec2024 19:33:36.967] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/16574, l='ServerLevel[world]', x=-828.10, y=-48.50, z=-331.03]
+[14Dec2024 19:33:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Close Quarters]
+[14Dec2024 19:34:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Oh Shiny]
+[14Dec2024 19:35:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Cave Spider
+[14Dec2024 19:35:13.247] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -822.9071704847581, Y: -50.0, Z: -324.17901497876886
+[14Dec2024 19:35:13.293] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:35:14.962] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:35:20.003] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/17738, l='ServerLevel[world]', x=-822.91, y=-48.50, z=-324.18]
+[14Dec2024 19:35:20.003] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17738, l='ServerLevel[world]', x=-822.91, y=-48.50, z=-324.18]
+[14Dec2024 19:35:22.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Who is Cutting Onions?]
+[14Dec2024 19:35:32.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Cave Spider
+[14Dec2024 19:35:32.339] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -821.3350659269173, Y: -54.0, Z: -324.7802007779893
+[14Dec2024 19:35:32.385] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:35:34.052] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:35:38.524] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/18052, l='ServerLevel[world]', x=-821.34, y=-52.50, z=-324.78]
+[14Dec2024 19:35:38.524] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/18052, l='ServerLevel[world]', x=-821.34, y=-52.50, z=-324.78]
+[14Dec2024 19:35:45.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Magic Writing]
+[14Dec2024 19:37:28.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[14Dec2024 19:37:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Iron to Gold Chest Upgrade] to YermanPC]
+[14Dec2024 19:37:34.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Gold to Diamond Chest Upgrade] to YermanPC]
+[14Dec2024 19:37:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Ignoring the Advices]
+[14Dec2024 19:37:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD withered away
+[14Dec2024 19:37:46.060] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -828.4568566314267, Y: 73.0, Z: -254.86505091635001
+[14Dec2024 19:37:46.148] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:37:49.482] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:37:54.152] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/19321, l='ServerLevel[world]', x=-828.46, y=74.50, z=-254.87]
+[14Dec2024 19:37:54.152] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19321, l='ServerLevel[world]', x=-828.46, y=74.50, z=-254.87]
+[14Dec2024 19:37:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Discreet Search]

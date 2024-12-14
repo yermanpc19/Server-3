@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-14 19:35:22 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:38:43 +0000",
@@ -207,6 +213,12 @@
   "enigmaticlegacy:book/misc/mega_sponge": {
     "criteria": {
       "has_the_recipe": "2024-12-14 14:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-14 19:34:45 +0000"
     },
     "done": true
   },
@@ -1575,6 +1587,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-14 19:33:27 +0000",
       "minecraft:nether_wastes": "2024-12-14 16:13:02 +0000",
       "minecraft:basalt_deltas": "2024-12-14 15:51:37 +0000"
     },
@@ -1781,6 +1794,12 @@
   "ic2:parachute_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-14 19:31:39 +0000"
     },
     "done": true
   },
@@ -2107,6 +2126,12 @@
   "ic2:hover_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:unconnecting_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:30:24 +0000"
     },
     "done": true
   },
@@ -2506,6 +2531,12 @@
     },
     "done": true
   },
+  "ic2:colossal_compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:35:22 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:33:50 +0000"
@@ -2583,12 +2614,6 @@
       "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-14 19:27:39 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
