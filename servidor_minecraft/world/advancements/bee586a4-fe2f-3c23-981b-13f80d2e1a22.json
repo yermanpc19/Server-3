@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-12-14 19:38:47 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-13 22:09:08 +0000"
@@ -719,6 +725,12 @@
     },
     "done": true
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2024-12-14 19:44:11 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_battery_station_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -826,6 +838,12 @@
   "ic2:tfbp_mushroom_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 21:13:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-12-14 19:38:47 +0000"
     },
     "done": true
   },
@@ -2987,6 +3005,12 @@
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2024-12-14 19:43:55 +0000"
     },
     "done": true
   },

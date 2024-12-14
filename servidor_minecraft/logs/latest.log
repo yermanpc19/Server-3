@@ -4147,3 +4147,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 19:37:54.152] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/19321, l='ServerLevel[world]', x=-828.46, y=74.50, z=-254.87]
 [14Dec2024 19:37:54.152] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19321, l='ServerLevel[world]', x=-828.46, y=74.50, z=-254.87]
 [14Dec2024 19:37:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Discreet Search]
+[14Dec2024 19:43:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Enderman
+[14Dec2024 19:43:22.590] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -695.0521133948523, Y: 73.0, Z: 312.448805335158
+[14Dec2024 19:43:22.620] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:43:23.807] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:43:28.753] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/22220, l='ServerLevel[world]', x=-695.05, y=74.50, z=312.45]
+[14Dec2024 19:43:28.754] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/22220, l='ServerLevel[world]', x=-695.05, y=74.50, z=312.45]
+[14Dec2024 19:43:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Enderman
+[14Dec2024 19:43:34.592] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -695.9275317870575, Y: 72.0, Z: 317.2647003473629
+[14Dec2024 19:43:34.635] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:43:35.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:43:40.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/22517, l='ServerLevel[world]', x=-695.93, y=73.50, z=317.26]
+[14Dec2024 19:43:40.302] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/22517, l='ServerLevel[world]', x=-695.93, y=73.50, z=317.26]
+[14Dec2024 19:43:55.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Cursed!]
+[14Dec2024 19:44:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Economy]
+[14Dec2024 19:47:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD suffocated in a wall
+[14Dec2024 19:47:38.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -582.6999999880791, Y: 71.0, Z: 299.69999998807907
+[14Dec2024 19:47:38.089] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:47:40.158] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:47:45.007] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/24181, l='ServerLevel[world]', x=-582.70, y=72.50, z=299.70]
+[14Dec2024 19:47:45.007] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/24181, l='ServerLevel[world]', x=-582.70, y=72.50, z=299.70]

@@ -3734,6 +3734,12 @@
     },
     "done": true
   },
+  "ic2:barrel_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:42:58 +0000"
+    },
+    "done": true
+  },
   "ic2:ov_scanner_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
