@@ -2749,6 +2749,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2024-12-11 21:11:03 +0000",
+      "nether_wart": "2024-12-14 20:40:59 +0000",
       "wheat": "2024-12-11 21:11:15 +0000"
     },
     "done": false
@@ -3316,6 +3317,12 @@
   "enigmaticlegacy:recipes/generic/lamps": {
     "criteria": {
       "has_core_block": "2024-12-14 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2024-12-14 20:37:14 +0000"
     },
     "done": true
   },

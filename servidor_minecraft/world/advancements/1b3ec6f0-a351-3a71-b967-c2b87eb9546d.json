@@ -2334,6 +2334,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-14 20:42:54 +0000"
+    },
+    "done": false
+  },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2572,6 +2578,12 @@
   "ic2:cfoam_slabs_yellow_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:colossal_recycler_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 20:34:32 +0000"
     },
     "done": true
   },
