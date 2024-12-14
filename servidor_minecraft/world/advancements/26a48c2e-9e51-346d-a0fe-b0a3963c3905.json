@@ -687,6 +687,12 @@
     },
     "done": true
   },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2024-12-14 21:00:25 +0000"
+    },
+    "done": true
+  },
   "ic2:extinguish_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:56:50 +0000"
@@ -3442,12 +3448,14 @@
       "highland": "2024-12-12 13:27:00 +0000",
       "cold_desert": "2024-12-10 01:10:48 +0000",
       "maple_woods": "2024-12-10 14:29:47 +0000",
+      "wooded_wasteland": "2024-12-14 21:02:04 +0000",
       "field": "2024-12-12 01:24:50 +0000",
       "lavender_forest": "2024-12-13 03:33:53 +0000",
       "coniferous_forest": "2024-12-10 13:40:02 +0000",
       "spider_nest": "2024-12-12 00:30:38 +0000",
       "forested_field": "2024-12-13 02:49:20 +0000",
       "dryland": "2024-12-14 20:59:41 +0000",
+      "lush_desert": "2024-12-14 21:01:47 +0000",
       "seasonal_orchard": "2024-12-12 01:23:34 +0000",
       "dune_beach": "2024-12-13 03:33:40 +0000",
       "seasonal_forest": "2024-12-09 03:00:18 +0000",

@@ -1426,6 +1426,7 @@
       "minecraft:ice_spikes": "2024-12-11 00:09:43 +0000",
       "minecraft:frozen_ocean": "2024-12-11 00:41:26 +0000",
       "minecraft:windswept_forest": "2024-12-11 00:43:35 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-14 21:02:28 +0000",
       "minecraft:ocean": "2024-12-12 10:41:29 +0000",
       "minecraft:snowy_beach": "2024-12-11 00:05:46 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-11 00:39:02 +0000",
@@ -2373,6 +2374,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-14 21:02:28 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -2690,6 +2697,12 @@
       "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-14 21:10:20 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {

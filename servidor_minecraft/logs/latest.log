@@ -4287,3 +4287,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 21:01:34.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
 [14Dec2024 21:01:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> zzzz
 [14Dec2024 21:02:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Ice Maze]
+[14Dec2024 21:07:50.650] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/minecraft/events/WaystoneUpdatedEvent$Type
