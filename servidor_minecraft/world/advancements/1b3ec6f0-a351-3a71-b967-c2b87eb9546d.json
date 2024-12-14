@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_light_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "ic2:cobblegen_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -122,6 +128,12 @@
   "ic2:bio_chunk_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:57:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -173,6 +185,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:unprinted_wiki_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:48:08 +0000"
@@ -215,9 +233,27 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_yellow_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -236,6 +272,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
     "criteria": {
       "has_items": "2024-12-10 00:50:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -476,6 +518,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2024-12-14 07:27:18 +0000"
+    },
+    "done": true
+  },
   "ic2:machine_tank_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:29:19 +0000"
@@ -561,6 +609,12 @@
       "hasItem": "2024-12-12 17:28:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
   },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
@@ -742,6 +796,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:insulated_copper_cable_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:54:15 +0000"
@@ -790,6 +850,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "ic2:lap_pack_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:19:30 +0000"
@@ -805,6 +871,12 @@
   "ic2:hv_water_mill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:painter_yellow_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -904,6 +976,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_ender_single_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
@@ -952,6 +1030,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:hydrated_coal_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -967,6 +1051,12 @@
   "ic2:ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -1060,6 +1150,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:22 +0000"
@@ -1129,6 +1225,12 @@
   "ic2:overclocker_upgrade_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:25:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -1258,6 +1360,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/material_master": {
     "criteria": {
       "enderslime_vine": "2024-12-11 00:10:43 +0000",
@@ -1366,6 +1474,12 @@
   "ic2:rubber_boat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -1604,6 +1718,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-12-09 03:07:46 +0000"
@@ -1676,9 +1796,21 @@
     },
     "done": true
   },
+  "ic2:painter_white_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_cold_dark_coffee_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_white_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -1697,6 +1829,12 @@
   "ic2:ranged_ov_scanner_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_white_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -1733,6 +1871,12 @@
   "ic2:filtered_fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_light_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -1775,6 +1919,12 @@
   "ic2:aluminum_pickaxe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -1843,15 +1993,33 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-09 02:50:00 +0000"
     },
     "done": true
   },
+  "ic2:cfoam_wall_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "ic2:wood_gassifier_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:29:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -1993,6 +2161,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-09 02:46:02 +0000"
@@ -2106,6 +2280,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-09 02:50:21 +0000"
@@ -2172,9 +2352,15 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-14 06:57:10 +0000"
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
     },
     "done": false
   },
@@ -2315,6 +2501,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_light_blue": {
+    "criteria": {
+      "has_wool": "2024-12-14 07:55:04 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_charcoal_quad_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:55:20 +0000"
@@ -2336,6 +2528,12 @@
   "ic2:centrifugal_rare_earth_extractor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -2401,6 +2599,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:glowstone_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2461,6 +2665,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2024-12-09 02:46:03 +0000"
@@ -2482,6 +2692,12 @@
   "ic2:vent_steam_adv_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -2518,6 +2734,12 @@
   "ic2:upgraded_nano_armor_helmet_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -2623,6 +2845,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_white_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:batbox_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -2647,9 +2875,21 @@
     },
     "done": true
   },
+  "ic2:cfoam_carpet_blue_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 03:47:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -2662,6 +2902,12 @@
   "ic2:uu_expansion_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -2705,6 +2951,12 @@
   "ic2:iv_transformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_light_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -2768,6 +3020,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "ic2:player_detector_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2807,6 +3065,12 @@
   "ic2:loudness_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -3009,6 +3273,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:trade_o_mat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -3126,6 +3396,12 @@
   "ic2:emerald_uum_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -3548,9 +3824,21 @@
     },
     "done": false
   },
+  "ic2:cfoam_wool_light_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:04 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2024-12-10 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -3575,6 +3863,12 @@
   "ic2:bio_cell_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
@@ -3690,6 +3984,18 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2024-12-10 01:43:30 +0000"
@@ -3723,6 +4029,12 @@
   "ic2:normal_quantum_armor_chestplate_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 21:08:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_light_blue_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -3795,6 +4107,12 @@
   "ic2:sticky_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_white_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -4044,6 +4362,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_lap_repair_lapis_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:27 +0000"
@@ -4071,6 +4395,12 @@
   "ic2:4x_insulated_iron_cable_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_white_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -4116,6 +4446,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_cultivation_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:14:35 +0000"
@@ -4149,6 +4485,12 @@
   "ic2:2x_insulated_bronze_cable_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -4242,6 +4584,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "ic2:trash_expansion_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:56 +0000"
@@ -4312,6 +4660,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_white_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:request_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:54 +0000"
@@ -4323,6 +4677,12 @@
       "hasItem": "2024-12-09 03:17:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
   },
   "ic2:esu_recipe_advancement": {
     "criteria": {
@@ -4426,6 +4786,18 @@
     },
     "done": true
   },
+  "ic2:painter_light_blue_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "ic2:mfe_minecart_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:50:18 +0000"
@@ -4462,6 +4834,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_white_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:overclocker_upgrade_6_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:54:26 +0000"
@@ -4477,6 +4855,12 @@
   "ic2:build_cable": {
     "criteria": {
       "hasItem": "2024-12-12 17:32:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -4606,6 +4990,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
+  },
   "ic2:uranium_ender_dual_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:55:20 +0000"
@@ -4673,6 +5063,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_light_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_ingot_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 02:12:56 +0000"
@@ -4725,6 +5121,12 @@
   "ic2:insertion_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:07:38 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -4872,6 +5274,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_light_blue_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:04 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_chargepad_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 18:38:41 +0000"
@@ -4899,6 +5307,12 @@
   "ic2:planter_pot_soul_soil_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:10:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_light_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -4932,6 +5346,12 @@
     },
     "done": true
   },
+  "ic2:painter_blue_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_panel_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"
@@ -4947,6 +5367,12 @@
   "ic2:pickup_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:18:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
     },
     "done": true
   },
@@ -5028,6 +5454,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_water_mill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:43 +0000"
@@ -5043,6 +5475,12 @@
   "ic2:monitor_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 21:18:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
   },
@@ -5129,6 +5567,12 @@
       "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
   },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
@@ -5279,9 +5723,21 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_white_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:mud_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_light_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
     },
     "done": true
   },
@@ -5521,6 +5977,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_light_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "ic2:thermal_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
@@ -5700,6 +6162,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_light_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-09 02:47:56 +0000"
@@ -5796,6 +6264,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_exchanger_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:43:45 +0000"
@@ -5856,6 +6330,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_white_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:10 +0000"
+    },
+    "done": true
+  },
   "ic2:muffler_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:25 +0000"
@@ -5879,6 +6359,12 @@
       "has_items": "2024-12-13 05:07:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
@@ -5915,6 +6401,12 @@
       "hasItem": "2024-12-14 06:53:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:02:24 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
@@ -6045,6 +6537,12 @@
   "ic2:uranium__isotopic_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 07:54:28 +0000"
     },
     "done": true
   },
