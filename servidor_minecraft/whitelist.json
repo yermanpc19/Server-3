@@ -4,16 +4,16 @@
     "name": "XD"
   },
   {
-    "uuid": "ada5875b-15f7-3d0f-99bb-35654b03929b",
-    "name": "clementepícaro"
-  },
-  {
     "uuid": "26a48c2e-9e51-346d-a0fe-b0a3963c3905",
     "name": "ElCachita_HD"
   },
   {
     "uuid": "449ffd90-91c7-3f92-9b23-cee774d68f1d",
     "name": "FlacoSchiavi"
+  },
+  {
+    "uuid": "01b102d7-b22f-3042-9787-7e72cd2fa3d1",
+    "name": "XD"
   },
   {
     "uuid": "1b3ec6f0-a351-3a71-b967-c2b87eb9546d",
@@ -26,9 +26,5 @@
   {
     "uuid": "bee586a4-fe2f-3c23-981b-13f80d2e1a22",
     "name": "ClementePicaro"
-  },
-  {
-    "uuid": "fce38f64-15eb-389c-bdfa-5a6258db820e",
-    "name": "clemente_pícaro"
   }
 ]
