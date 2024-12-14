@@ -588,6 +588,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-12-14 13:29:52 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2024-12-11 00:37:28 +0000"
@@ -1012,6 +1018,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-14 13:23:36 +0000"
+    },
+    "done": true
+  },
   "ic2:terraformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:27:27 +0000"
@@ -1063,6 +1075,12 @@
   "ic2:compressor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:21:31 +0000"
     },
     "done": true
   },
@@ -2080,6 +2098,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2024-12-14 13:24:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-14 13:20:19 +0000"
@@ -2385,6 +2409,12 @@
       "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-14 13:31:37 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
@@ -2824,6 +2854,12 @@
   "ic2:eu_reader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-14 13:24:56 +0000"
     },
     "done": true
   },

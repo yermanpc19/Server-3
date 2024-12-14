@@ -3783,3 +3783,73 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 13:21:31.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has reached the goal [A Fast Comeback]
 [14Dec2024 13:23:26.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [14Dec2024 13:23:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [You Are A Pirate]
+[14Dec2024 13:24:35.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[14Dec2024 13:24:49.341] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[14Dec2024 13:24:49.387] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[14Dec2024 13:24:49.388] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[14Dec2024 13:24:49.517] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[14Dec2024 13:24:49.537] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[14Dec2024 13:24:49.734] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[14Dec2024 13:24:49.734] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[14Dec2024 13:24:49.734] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[14Dec2024 13:24:49.734] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[14Dec2024 13:24:49.817] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[14Dec2024 13:24:49.817] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[14Dec2024 13:24:49.873] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[14Dec2024 13:24:49.873] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[14Dec2024 13:24:50.048] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[14Dec2024 13:24:50.048] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[14Dec2024 13:24:50.189] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20454ec2
+[14Dec2024 13:24:50.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElCachita_HD[/127.49.114.126:42809] logged in with entity id 2594 at (-343.9151309962715, 71.0, -307.42895381501074)
+[14Dec2024 13:24:50.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD joined the game
+[14Dec2024 13:24:50.362] [Server thread/INFO] [Jade/]: Syncing config to ElCachita_HD (26a48c2e-9e51-346d-a0fe-b0a3963c3905)
+[14Dec2024 13:24:50.404] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ElCachita_HD...
+[14Dec2024 13:24:50.405] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 13:24:50.405] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ElCachita_HD
+[14Dec2024 13:24:51.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/FaucetBlockEntity$FaucetState
+[14Dec2024 13:24:51.473] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/math/geometry/Matrix4x4$Axis
+[14Dec2024 13:24:51.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/handler/AccessRule
+[14Dec2024 13:24:52.044] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/energy/tile/IEnergySource$SourceType
+[14Dec2024 13:24:52.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/network/buffer/NetworkInfo$BitLevel
+[14Dec2024 13:24:59.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
+[14Dec2024 13:25:11.910] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[14Dec2024 13:25:11.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[14Dec2024 13:25:11.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> te muestro algo
+[14Dec2024 13:25:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> epicardovich
+[14Dec2024 13:25:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> estoy lejos
+[14Dec2024 13:25:30.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> wowowow
+[14Dec2024 13:25:35.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> tu te lo pierdes bro
+[14Dec2024 13:25:44.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[14Dec2024 13:25:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> tranquilo viejo, mas tarde podemos reunirnos para que tu me muestres tu cosa
+[14Dec2024 13:26:04.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[14Dec2024 13:26:31.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[14Dec2024 13:26:31.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[14Dec2024 13:26:31.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[14Dec2024 13:26:51.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6094ms or 121 ticks behind
+[14Dec2024 13:29:00.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> wowowo jonny el martillo mas caro es muy caro
+[14Dec2024 13:29:33.747] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[14Dec2024 13:29:33.790] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[14Dec2024 13:29:33.878] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[14Dec2024 13:29:33.878] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[14Dec2024 13:29:33.899] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[14Dec2024 13:29:33.989] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[14Dec2024 13:29:34.002] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[14Dec2024 13:29:34.126] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[14Dec2024 13:29:34.152] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[14Dec2024 13:29:34.152] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[14Dec2024 13:29:34.223] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[14Dec2024 13:29:34.252] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[14Dec2024 13:29:34.379] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[14Dec2024 13:29:34.379] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[14Dec2024 13:29:34.379] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[14Dec2024 13:29:34.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6491bbc3
+[14Dec2024 13:29:34.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:50915] logged in with entity id 4827 at (-42.30000001192093, 76.0, -753.3000000119209)
+[14Dec2024 13:29:34.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[14Dec2024 13:29:34.658] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[14Dec2024 13:29:34.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[14Dec2024 13:29:34.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 13:29:34.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[14Dec2024 13:29:44.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> como Steven? Me estas diciendo que el marillo mas caro es el martillo mas caro?
+[14Dec2024 13:32:05.379] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[14Dec2024 13:34:02.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IBellConnections$BellConnection
+[14Dec2024 13:34:02.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
