@@ -4029,3 +4029,70 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 19:10:05.979] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [14Dec2024 19:10:16.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mathew'/7327, l='ServerLevel[world]', x=-1284.70, y=75.00, z=697.87] died, message: 'Mathew was slain by Goblin Warrior'
 [14Dec2024 19:10:16.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mathew'/7327, l='ServerLevel[world]', x=-1284.70, y=75.00, z=697.87] died: Mathew was slain by Goblin Warrior
+[14Dec2024 19:11:39.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/7256, l='ServerLevel[world]', x=-1247.46, y=63.00, z=687.39] died: Ewart the Cold was slain by XD
+[14Dec2024 19:11:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Crops of the Wild]
+[14Dec2024 19:11:54.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[14Dec2024 19:14:30.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[14Dec2024 19:15:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Chilled Halls]
+[14Dec2024 19:17:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Take Aim]
+[14Dec2024 19:18:51.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/8823, l='ServerLevel[world]', x=-560.52, y=61.00, z=542.54] died: Brog the Bulwark was burnt to a crisp whilst fighting XD
+[14Dec2024 19:19:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD fell from a high place
+[14Dec2024 19:19:43.788] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -546.1380253444283, Y: 75.0, Z: 528.7934500063126
+[14Dec2024 19:19:43.854] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:19:45.455] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:19:51.882] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/10065, l='ServerLevel[world]', x=-546.14, y=76.50, z=528.79]
+[14Dec2024 19:19:51.882] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10065, l='ServerLevel[world]', x=-546.14, y=76.50, z=528.79]
+[14Dec2024 19:21:10.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Easy Opening]
+[14Dec2024 19:21:30.051] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[14Dec2024 19:21:30.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[14Dec2024 19:21:30.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[14Dec2024 19:21:30.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[14Dec2024 19:21:30.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[14Dec2024 19:21:30.159] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[14Dec2024 19:21:30.159] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[14Dec2024 19:21:30.159] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[14Dec2024 19:21:30.160] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[14Dec2024 19:21:30.236] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[14Dec2024 19:21:30.347] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[14Dec2024 19:21:30.347] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[14Dec2024 19:21:30.389] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[14Dec2024 19:21:30.536] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[14Dec2024 19:21:30.536] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[14Dec2024 19:21:30.678] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@201c4dc9
+[14Dec2024 19:21:30.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:59151] logged in with entity id 10504 at (240.69054921154702, 55.0, 145.30000001192093)
+[14Dec2024 19:21:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[14Dec2024 19:21:30.885] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[14Dec2024 19:21:30.941] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[14Dec2024 19:21:30.942] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 19:21:30.942] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[14Dec2024 19:21:35.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4367ms or 87 ticks behind
+[14Dec2024 19:21:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has completed the challenge [When the Stew is Sus]
+[14Dec2024 19:25:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Isn't It Iron Pick]
+[14Dec2024 19:25:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Tools of the Trade]
+[14Dec2024 19:26:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Nerves of Steel]
+[14Dec2024 19:27:34.884] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[14Dec2024 19:27:34.884] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[14Dec2024 19:27:34.940] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[14Dec2024 19:27:34.940] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[14Dec2024 19:27:34.941] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[14Dec2024 19:27:34.944] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[14Dec2024 19:27:34.944] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[14Dec2024 19:27:34.944] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[14Dec2024 19:27:34.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[14Dec2024 19:27:34.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[14Dec2024 19:27:35.015] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[14Dec2024 19:27:35.136] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[14Dec2024 19:27:35.136] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[14Dec2024 19:27:35.136] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[14Dec2024 19:27:35.136] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[14Dec2024 19:27:35.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7acdfa50
+[14Dec2024 19:27:35.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:57999] logged in with entity id 13007 at (-81.75304512525997, 106.0, -305.5199095200996)
+[14Dec2024 19:27:35.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[14Dec2024 19:27:35.518] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[14Dec2024 19:27:35.594] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[14Dec2024 19:27:35.595] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 19:27:35.600] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[14Dec2024 19:28:04.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[14Dec2024 19:28:39.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[14Dec2024 19:28:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Diamonds!]
+[14Dec2024 19:28:57.967] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
