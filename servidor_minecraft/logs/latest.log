@@ -3773,3 +3773,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 06:41:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Alloy Smelter] to YermanPC]
 [14Dec2024 06:44:41.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
 [14Dec2024 06:45:58.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Iron Ingot] to YermanPC]
+[14Dec2024 06:55:43.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[14Dec2024 06:57:51.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[14Dec2024 07:00:52.321] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[14Dec2024 07:02:03.558] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[14Dec2024 07:02:10.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Dec2024 07:02:37.656] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[14Dec2024 07:03:10.417] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[14Dec2024 07:03:10.418] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[14Dec2024 07:03:11.616] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1cd6bcef-e98c-4b54-a71c-39f7c5919044
+[14Dec2024 07:03:12.775] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID eeab2abf-5677-4872-a429-1f712fd4f55d
+[14Dec2024 07:03:12.781] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-3/servidor_minecraft/./crash-reports/crash-2024-12-14_07.03.12-server.txt
