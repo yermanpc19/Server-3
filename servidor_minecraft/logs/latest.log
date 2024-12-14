@@ -3872,3 +3872,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 13:45:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Jaws]
 [14Dec2024 13:45:42.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
 [14Dec2024 13:47:06.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14Dec2024 13:55:15.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14Dec2024 13:56:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has completed the challenge [Village Defender]
+[14Dec2024 14:03:22.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1113, y=96, z=-205} BlockPos{x=-1115, y=98, z=-201}
+[14Dec2024 14:06:24.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> cerra el ortoooooooo
+[14Dec2024 14:08:28.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Into Fire]
+[14Dec2024 14:14:21.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> haber si duermen eh
+[14Dec2024 14:14:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> los phantom no me dejan trabajar
+[14Dec2024 14:15:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has completed the challenge [Village Defender]
+[14Dec2024 14:15:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> timbero

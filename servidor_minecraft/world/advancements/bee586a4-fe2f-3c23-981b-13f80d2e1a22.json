@@ -751,6 +751,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-14 14:08:28 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
@@ -1060,6 +1066,12 @@
   "ic2:lv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_chilling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 14:11:11 +0000"
     },
     "done": true
   },
@@ -1858,6 +1870,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-11 01:01:32 +0000",
+      "cooked_beef": "2024-12-14 13:56:37 +0000",
       "baked_potato": "2024-12-11 20:51:34 +0000",
       "bread": "2024-12-10 19:29:18 +0000",
       "golden_apple": "2024-12-12 10:46:03 +0000",
@@ -2279,6 +2292,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-14 13:21:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:56:09 +0000"
     },
     "done": true
   },
@@ -2966,6 +2985,12 @@
   "ic2:cf_sprayer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-14 14:08:28 +0000"
     },
     "done": true
   },
