@@ -2237,6 +2237,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:47:28 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_slabs_gray_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:07:03 +0000"
