@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_yellow_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 07:55:56 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-09 02:46:03 +0000"
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-09 18:52:00 +0000"
@@ -428,6 +446,12 @@
   "ic2:uranium_blaze_single_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -580,6 +604,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:stacking_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -706,6 +736,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_carpet_black_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:gold_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:55:58 +0000"
@@ -721,6 +757,12 @@
   "ic2:teleport_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -883,6 +925,12 @@
   "ic2:crop_analyzer_block_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -1357,7 +1405,8 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "enderslime_vine": "2024-12-11 00:10:43 +0000",
-      "wood": "2024-12-11 00:10:43 +0000"
+      "wood": "2024-12-11 00:10:43 +0000",
+      "slimesteel": "2024-12-14 21:35:57 +0000"
     },
     "done": false
   },
@@ -2041,6 +2090,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:damage_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 00:47:50 +0000"
@@ -2059,6 +2114,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_carpet_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -2074,6 +2135,12 @@
   "iammusicplayer:iammusicplayer/listen_to_remote_music": {
     "criteria": {
       "listen_to_remote_music": "2024-12-10 22:59:03 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_cyan": {
+    "criteria": {
+      "has_wool": "2024-12-14 21:39:32 +0000"
     },
     "done": true
   },
@@ -2259,6 +2326,12 @@
   "ic2:mug_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:27:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:painter_black_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -2590,6 +2663,12 @@
   "ic2:glowstone_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -3327,6 +3406,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:charged_electrolyzer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 04:26:52 +0000"
@@ -3746,6 +3831,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:barrel_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 19:42:58 +0000"
@@ -3779,6 +3870,12 @@
   "ic2:advanced_field_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:49:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
     },
     "done": true
   },
@@ -4395,6 +4492,12 @@
   "ic2:ranged_ov_scanner_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 06:53:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_cyan_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:39:32 +0000"
     },
     "done": true
   },
@@ -5214,6 +5317,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2024-12-09 04:12:59 +0000",
@@ -5747,6 +5856,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:48:18 +0000"
+    },
+    "done": true
+  },
   "ic2:rotary_macerator_obsidian_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 02:09:46 +0000"
@@ -6108,6 +6223,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_cyan_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:39:32 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_helmet_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:17:28 +0000"
@@ -6308,6 +6429,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "broad_axe": "2024-12-14 21:35:32 +0000",
       "longbow": "2024-12-11 00:10:43 +0000"
     },
     "done": false
