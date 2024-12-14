@@ -4212,3 +4212,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 20:18:15.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
 [14Dec2024 20:18:15.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
 [14Dec2024 20:19:56.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
+[14Dec2024 20:26:13.538] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
+[14Dec2024 20:29:13.253] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[14Dec2024 20:29:13.253] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[14Dec2024 20:29:13.363] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[14Dec2024 20:29:13.363] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[14Dec2024 20:29:13.365] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[14Dec2024 20:29:13.365] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[14Dec2024 20:29:13.366] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[14Dec2024 20:29:13.506] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[14Dec2024 20:29:13.540] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[14Dec2024 20:29:13.541] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[14Dec2024 20:29:13.541] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[14Dec2024 20:29:13.703] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[14Dec2024 20:29:13.703] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[14Dec2024 20:29:13.703] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[14Dec2024 20:29:13.874] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[14Dec2024 20:29:13.991] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4136bb89
+[14Dec2024 20:29:14.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElCachita_HD[/127.49.114.126:40917] logged in with entity id 41882 at (-343.630304262657, 71.0, -311.0922528744398)
+[14Dec2024 20:29:14.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD joined the game
+[14Dec2024 20:29:14.138] [Server thread/INFO] [Jade/]: Syncing config to ElCachita_HD (26a48c2e-9e51-346d-a0fe-b0a3963c3905)
+[14Dec2024 20:29:14.163] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ElCachita_HD...
+[14Dec2024 20:29:14.164] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 20:29:14.164] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ElCachita_HD
+[14Dec2024 20:29:48.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=108, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 20:29:52.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-85, y=106, z=-296} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 20:29:54.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
