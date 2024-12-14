@@ -3921,3 +3921,111 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 18:59:21.282] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/3959, l='ServerLevel[world]', x=-972.49, y=70.52, z=387.28]
 [14Dec2024 18:59:21.282] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3959, l='ServerLevel[world]', x=-972.49, y=70.52, z=387.28]
 [14Dec2024 18:59:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Forgotten Wars and Kingdoms]
+[14Dec2024 19:00:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Monster Hunter]
+[14Dec2024 19:00:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:00:41.298] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1007.5794705599933, Y: 68.56686296679885, Z: 403.2103251969688
+[14Dec2024 19:00:41.307] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:00:42.583] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:00:47.136] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/4305, l='ServerLevel[world]', x=-1007.58, y=70.07, z=403.21]
+[14Dec2024 19:00:47.136] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4305, l='ServerLevel[world]', x=-1007.58, y=70.07, z=403.21]
+[14Dec2024 19:00:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Here They Come]
+[14Dec2024 19:00:53.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Chain Death]
+[14Dec2024 19:00:53.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:00:53.145] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1008.2399006456429, Y: 68.0, Z: 403.3995079689234
+[14Dec2024 19:00:53.157] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:00:54.354] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:00:58.136] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/4401, l='ServerLevel[world]', x=-1008.24, y=69.50, z=403.40]
+[14Dec2024 19:00:58.136] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4401, l='ServerLevel[world]', x=-1008.24, y=69.50, z=403.40]
+[14Dec2024 19:03:06.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD burned to death
+[14Dec2024 19:03:06.765] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1008.3000000119209, Y: 70.5, Z: 408.6308390054112
+[14Dec2024 19:03:06.803] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:08.045] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:11.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:03:11.335] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1004.5, Y: 67.0, Z: 410.5
+[14Dec2024 19:03:11.347] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:12.815] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:12.830] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/4803, l='ServerLevel[world]', x=-1004.50, y=68.50, z=410.50]
+[14Dec2024 19:03:12.830] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4803, l='ServerLevel[world]', x=-1004.50, y=68.50, z=410.50]
+[14Dec2024 19:03:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:03:15.932] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1003.223882408597, Y: 67.0, Z: 415.0752335691293
+[14Dec2024 19:03:15.947] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:17.142] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:03:24.784] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1011.2337105073603, Y: 69.0, Z: 408.342513449093
+[14Dec2024 19:03:24.797] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:25.979] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:30.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/5178, l='ServerLevel[world]', x=-1011.23, y=70.50, z=408.34]
+[14Dec2024 19:03:30.635] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5178, l='ServerLevel[world]', x=-1011.23, y=70.50, z=408.34]
+[14Dec2024 19:03:32.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Skeleton
+[14Dec2024 19:03:32.285] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1011.1993151339028, Y: 69.5, Z: 407.37631843368223
+[14Dec2024 19:03:32.301] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:33.568] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:38.085] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/5389, l='ServerLevel[world]', x=-1011.20, y=71.00, z=407.38]
+[14Dec2024 19:03:38.086] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5389, l='ServerLevel[world]', x=-1011.20, y=71.00, z=407.38]
+[14Dec2024 19:03:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Skeleton
+[14Dec2024 19:03:38.832] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1010.3179924284233, Y: 69.17271973885921, Z: 408.0921549933403
+[14Dec2024 19:03:38.846] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:40.292] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:03:44.680] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1008.999937583363, Y: 68.0, Z: 404.99054479890356
+[14Dec2024 19:03:44.730] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:45.925] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:49.990] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/5706, l='ServerLevel[world]', x=-1009.00, y=69.50, z=404.99]
+[14Dec2024 19:03:49.990] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5706, l='ServerLevel[world]', x=-1009.00, y=69.50, z=404.99]
+[14Dec2024 19:03:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:03:50.788] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1011.0793904171038, Y: 69.0625, Z: 406.51249998807907
+[14Dec2024 19:03:50.803] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:03:51.986] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:03:58.093] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/5913, l='ServerLevel[world]', x=-1011.08, y=70.56, z=406.51]
+[14Dec2024 19:03:58.094] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5913, l='ServerLevel[world]', x=-1011.08, y=70.56, z=406.51]
+[14Dec2024 19:03:59.036] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/5543, l='ServerLevel[world]', x=-1010.32, y=70.67, z=408.09]
+[14Dec2024 19:03:59.036] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5543, l='ServerLevel[world]', x=-1010.32, y=70.67, z=408.09]
+[14Dec2024 19:04:01.134] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/4983, l='ServerLevel[world]', x=-1008.30, y=72.00, z=408.63]
+[14Dec2024 19:04:01.134] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4983, l='ServerLevel[world]', x=-1008.30, y=72.00, z=408.63]
+[14Dec2024 19:04:19.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[14Dec2024 19:04:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [A Strange Grave Dust]
+[14Dec2024 19:05:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Suit Up]
+[14Dec2024 19:05:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Disme A Dozen]
+[14Dec2024 19:05:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Ashes 'n Bones]
+[14Dec2024 19:05:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:05:47.236] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1006.605671682037, Y: 76.0, Z: 392.52874469155466
+[14Dec2024 19:05:47.249] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:05:48.651] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:05:53.190] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/6304, l='ServerLevel[world]', x=-1006.61, y=77.50, z=392.53]
+[14Dec2024 19:05:53.190] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6304, l='ServerLevel[world]', x=-1006.61, y=77.50, z=392.53]
+[14Dec2024 19:06:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:06:13.040] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1004.9246573610934, Y: 75.84404905030057, Z: 392.68985491908205
+[14Dec2024 19:06:13.049] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:06:14.220] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:06:18.788] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/6507, l='ServerLevel[world]', x=-1004.92, y=77.34, z=392.69]
+[14Dec2024 19:06:18.788] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6507, l='ServerLevel[world]', x=-1004.92, y=77.34, z=392.69]
+[14Dec2024 19:07:51.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:07:51.892] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1015.5372717975231, Y: 73.0, Z: 400.5998287532921
+[14Dec2024 19:07:51.909] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:07:53.168] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:07:57.739] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/6722, l='ServerLevel[world]', x=-1015.54, y=74.50, z=400.60]
+[14Dec2024 19:07:57.739] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6722, l='ServerLevel[world]', x=-1015.54, y=74.50, z=400.60]
+[14Dec2024 19:07:59.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Zombie
+[14Dec2024 19:07:59.890] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1013.2360206198135, Y: 73.0, Z: 399.5795881399585
+[14Dec2024 19:07:59.902] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:08:01.966] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:08:06.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/6809, l='ServerLevel[world]', x=-1013.24, y=74.50, z=399.58]
+[14Dec2024 19:08:06.436] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6809, l='ServerLevel[world]', x=-1013.24, y=74.50, z=399.58]
+[14Dec2024 19:08:35.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Arag the Lurker
+[14Dec2024 19:08:35.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -1012.7640054815332, Y: 68.875, Z: 404.30000001192093
+[14Dec2024 19:08:35.107] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:08:36.456] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:08:41.088] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/6909, l='ServerLevel[world]', x=-1012.76, y=70.38, z=404.30]
+[14Dec2024 19:08:41.088] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6909, l='ServerLevel[world]', x=-1012.76, y=70.38, z=404.30]
+[14Dec2024 19:08:52.496] [Server thread/WARN] [tombstone/]: The death event of the player XD was canceled by another mod
+[14Dec2024 19:08:52.504] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:08:56.238] [Server thread/WARN] [tombstone/]: The death event of the player XD was canceled by another mod
+[14Dec2024 19:08:56.246] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:08:59.988] [Server thread/WARN] [tombstone/]: The death event of the player XD was canceled by another mod
+[14Dec2024 19:09:00.041] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:09:38.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/wares/block/entity/AgreementTableLock$UnlockBehavior
+[14Dec2024 19:09:39.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Dec2024 19:09:57.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[14Dec2024 19:10:05.979] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[14Dec2024 19:10:16.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mathew'/7327, l='ServerLevel[world]', x=-1284.70, y=75.00, z=697.87] died, message: 'Mathew was slain by Goblin Warrior'
+[14Dec2024 19:10:16.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mathew'/7327, l='ServerLevel[world]', x=-1284.70, y=75.00, z=697.87] died: Mathew was slain by Goblin Warrior

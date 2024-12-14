@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "ic2:memory_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:plant_ball_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:05 +0000"
+    },
+    "done": true
+  },
   "ic2:gunpowder_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
@@ -32,6 +44,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-12-14 18:49:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_chest_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:03:23 +0000"
     },
     "done": true
   },
@@ -68,6 +86,18 @@
   "ulterlands:the_ulterlands": {
     "criteria": {
       "the_ulterlands": "2024-12-14 18:49:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_trapdoor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_biome_forestification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:05 +0000"
     },
     "done": true
   },
@@ -161,9 +191,27 @@
     },
     "done": true
   },
+  "ic2:industrial_worktable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_leggings_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:05:24 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_hoe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 19:00:49 +0000"
     },
     "done": true
   },
@@ -195,6 +243,12 @@
   "ic2:lead_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:59:49 +0000"
     },
     "done": true
   },
@@ -246,6 +300,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 19:00:53 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_sword_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:32 +0000"
@@ -258,9 +318,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-14 19:04:19 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_transformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:25 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-14 18:59:12 +0000"
     },
     "done": true
   },
@@ -276,6 +348,12 @@
     },
     "done": false
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 18:59:15 +0000"
+    },
+    "done": true
+  },
   "ic2:memory_stick_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
@@ -284,6 +362,7 @@
   },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
+      "incompletable": "2024-12-14 18:59:12 +0000",
       "is_cursed_one": "2024-12-14 18:49:48 +0000"
     },
     "done": true
@@ -291,6 +370,12 @@
   "ic2:energy_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:00:01 +0000"
     },
     "done": true
   },
@@ -324,15 +409,33 @@
     },
     "done": true
   },
+  "ic2:armor_configurator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:57:54 +0000"
+    },
+    "done": true
+  },
   "ic2:chips_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:32 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 18:59:12 +0000"
+    },
+    "done": true
+  },
   "ic2:2x_insulated_gold_cable_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_slab_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
     },
     "done": true
   },
@@ -345,6 +448,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_large_dungeon": "2024-12-14 18:54:38 +0000",
+      "entered_castle": "2024-12-14 18:59:31 +0000",
       "entered_watch_tower": "2024-12-14 18:53:54 +0000"
     },
     "done": false
@@ -446,6 +550,12 @@
     },
     "done": false
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-14 19:02:58 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_flux_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:03 +0000"
@@ -461,6 +571,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-14 18:49:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_stairs_left_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
     },
     "done": true
   },
@@ -482,6 +598,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-14 19:05:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-12-14 18:59:31 +0000"
+    },
+    "done": true
+  },
   "ic2:gold_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:02 +0000"
@@ -496,6 +624,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-14 18:57:58 +0000",
       "cold_desert": "2024-12-14 18:50:06 +0000",
       "coniferous_forest": "2024-12-14 18:50:17 +0000",
       "tundra": "2024-12-14 18:52:25 +0000"
@@ -505,6 +634,12 @@
   "ic2:electric_blast_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:00:07 +0000"
     },
     "done": true
   },
@@ -532,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 18:58:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2024-12-14 18:54:02 +0000"
@@ -547,6 +688,18 @@
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_door_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-14 19:05:11 +0000"
     },
     "done": true
   },
@@ -589,6 +742,12 @@
   "ic2:macerator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-14 18:59:12 +0000"
     },
     "done": true
   },
@@ -652,6 +811,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-14 18:59:15 +0000"
+    },
+    "done": true
+  },
   "ic2:itnt_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:45 +0000"
@@ -694,6 +859,25 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-14 19:02:06 +0000",
+      "minecraft:zombie": "2024-12-14 19:00:27 +0000"
+    },
+    "done": false
+  },
+  "ic2:rubberwood_pressure_plate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_button_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
@@ -703,6 +887,18 @@
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_planks_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:59:49 +0000"
     },
     "done": true
   },
@@ -751,6 +947,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-14 18:49:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 18:59:21 +0000"
     },
     "done": true
   },
@@ -911,6 +1113,12 @@
     },
     "done": false
   },
+  "ic2:rubberwood_log_bark_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:00 +0000"
+    },
+    "done": true
+  },
   "ic2:fuel_jetpack_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
@@ -932,6 +1140,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_watch_tower": "2024-12-14 18:53:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 19:05:39 +0000"
     },
     "done": true
   },
@@ -965,6 +1179,12 @@
     },
     "done": true
   },
+  "ic2:rubberwood_stairs_right_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:25 +0000"
@@ -980,6 +1200,12 @@
   "ic2:hazmat_boots_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 18:57:54 +0000"
     },
     "done": true
   },
@@ -1004,6 +1230,12 @@
   "ic2:magnetizer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:00:01 +0000"
     },
     "done": true
   },
@@ -1040,6 +1272,12 @@
   "ic2:lv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_boat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:58:18 +0000"
     },
     "done": true
   },
@@ -1134,6 +1372,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 18:59:21 +0000"
+    },
+    "done": true
+  },
   "casinocraft:recipes/misc/item_book": {
     "criteria": {
       "has_paper": "2024-12-14 18:54:03 +0000"
@@ -1188,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 18:57:54 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
@@ -1230,9 +1480,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-14 19:00:27 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:crafting_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:57:54 +0000"
     },
     "done": true
   },
@@ -1272,6 +1534,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 19:04:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2024-12-14 18:49:48 +0000"
@@ -1286,6 +1554,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 19:04:55 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2024-12-14 18:49:03 +0000"
@@ -1297,6 +1571,12 @@
       "log_spam_fixer": "2024-12-14 18:49:05 +0000"
     },
     "done": false
+  },
+  "ic2:plant_ball_seed_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 18:59:49 +0000"
+    },
+    "done": true
   },
   "ic2:bronze_sign_recipe_advancement": {
     "criteria": {
@@ -1335,6 +1615,12 @@
     },
     "done": true
   },
+  "ic2:composite_leggings_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:05:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2024-12-14 18:49:48 +0000"
@@ -1359,6 +1645,12 @@
       "rainbowcoal": "2024-12-14 18:49:04 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2024-12-14 18:59:31 +0000"
+    },
+    "done": false
   },
   "ic2:durable_sawblade_upgrade_recipe_advancement": {
     "criteria": {
@@ -1470,6 +1762,12 @@
     },
     "done": false
   },
+  "ic2:composite_chest_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:03:23 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_4_4": {
     "criteria": {
       "requirement1": "2024-12-14 18:57:02 +0000"
@@ -1566,6 +1864,12 @@
     },
     "done": true
   },
+  "ic2:root": {
+    "criteria": {
+      "hasCrafting": "2024-12-14 18:57:54 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/enchanter_pearl": {
     "criteria": {
       "is_cursed_one": "2024-12-14 18:49:48 +0000"
@@ -1587,6 +1891,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-14 18:57:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:00:01 +0000"
     },
     "done": true
   },
