@@ -3933,3 +3933,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 14:45:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> no es mi culpa
 [14Dec2024 14:46:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> es de german por hacerlo tan gay
 [14Dec2024 14:46:22.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> preparate vito
+[14Dec2024 14:48:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> aguanto
+[14Dec2024 14:48:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> de momento
+[14Dec2024 14:51:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> OH YEAH
+[14Dec2024 14:53:10.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> pueden zz?
+[14Dec2024 14:53:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> yo no
+[14Dec2024 14:53:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> pero quisiera
+[14Dec2024 14:53:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> zz
+[14Dec2024 14:54:31.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1115, y=100, z=-201} BlockPos{x=-1115, y=96, z=-201}
+[14Dec2024 14:56:55.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of ElCachita_HD) moved wrongly! 0.36800528210324046

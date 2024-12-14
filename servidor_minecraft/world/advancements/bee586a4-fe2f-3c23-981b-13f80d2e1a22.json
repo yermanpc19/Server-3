@@ -2511,6 +2511,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-14 14:56:57 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
