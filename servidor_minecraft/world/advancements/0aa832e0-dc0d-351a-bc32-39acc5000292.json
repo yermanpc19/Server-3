@@ -944,6 +944,12 @@
     },
     "done": true
   },
+  "ic2:mv_flux_generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:48:22 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-09 02:47:01 +0000"
@@ -2144,6 +2150,12 @@
   "ic2:redstone_sensitivity_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-12-14 13:45:18 +0000"
     },
     "done": true
   },
@@ -4532,6 +4544,12 @@
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2024-12-12 22:13:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_flux_generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:48:22 +0000"
     },
     "done": true
   },
