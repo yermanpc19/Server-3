@@ -4167,3 +4167,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 19:47:40.158] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 19:47:45.007] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player XD picking up: PermanentItemEntity['Soul Crystal'/24181, l='ServerLevel[world]', x=-582.70, y=72.50, z=299.70]
 [14Dec2024 19:47:45.007] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/24181, l='ServerLevel[world]', x=-582.70, y=72.50, z=299.70]
+[14Dec2024 19:53:58.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[14Dec2024 19:54:33.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has reached the goal [Great minds think alike]
+[14Dec2024 19:54:50.363] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[14Dec2024 19:54:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD has made the advancement [Knowledge raises the soul]
+[14Dec2024 19:56:03.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Light-Sensitive]
+[14Dec2024 19:56:03.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/30504, l='ServerLevel[world]', x=894.70, y=57.00, z=-293.79] died: Desert Blaze was shot by ClementePicaro using    [TIRAWASKA]
+[14Dec2024 19:56:46.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/30506, l='ServerLevel[world]', x=895.54, y=59.00, z=-303.70] died: Desert Blaze was shot by ClementePicaro using    [TIRAWASKA]
+[14Dec2024 19:58:20.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Strange Biomes]
+[14Dec2024 19:58:20.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Darude - Firestorm]
+[14Dec2024 19:58:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XD was slain by Door Knight
+[14Dec2024 19:58:48.691] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from XD at X: -810.2931399487884, Y: 74.0, Z: 159.23977280193859
+[14Dec2024 19:58:48.762] [Server thread/INFO] [tombstone/]: The player XD has successfully been saved
+[14Dec2024 19:58:50.313] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 19:58:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has completed the challenge [Return to Sender]
+[14Dec2024 20:00:39.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType

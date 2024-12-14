@@ -329,6 +329,18 @@
     },
     "done": false
   },
+  "ic2:exp_collector_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 19:54:33 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2024-12-14 19:16:36 +0000"
@@ -837,6 +849,12 @@
     },
     "done": true
   },
+  "ic2:exp_collector_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:53:41 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_exchanger_spread_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:57:02 +0000"
@@ -876,6 +894,12 @@
   "ic2:iridium_plate_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_helmet_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:52:57 +0000"
     },
     "done": true
   },
@@ -1349,6 +1373,12 @@
     },
     "done": true
   },
+  "ic2:glass_to_lingering_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:53:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 18:59:12 +0000"
@@ -1564,6 +1594,12 @@
       "has_parent_recipe": "2024-12-14 18:57:03 +0000"
     },
     "done": false
+  },
+  "ic2:solar_helmet_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:52:57 +0000"
+    },
+    "done": true
   },
   "ic2:mv_charge_bench_kit_indirect_bronze_recipe_advancement": {
     "criteria": {
@@ -2055,6 +2091,12 @@
     },
     "done": true
   },
+  "ic2:composite_helmet_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:52:57 +0000"
+    },
+    "done": true
+  },
   "ic2:energy_storage_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:25 +0000"
@@ -2284,6 +2326,12 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 19:54:50 +0000"
     },
     "done": true
   },

@@ -1953,6 +1953,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-12-14 19:56:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2024-12-12 18:57:01 +0000"
