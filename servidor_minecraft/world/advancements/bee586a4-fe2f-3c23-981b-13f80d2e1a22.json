@@ -634,6 +634,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2024-12-14 16:02:09 +0000",
       "earth": "2024-12-12 10:35:39 +0000"
     },
     "done": false
@@ -740,12 +741,14 @@
       "minecraft:pillager": "2024-12-11 20:56:10 +0000",
       "minecraft:skeleton": "2024-12-11 00:17:46 +0000",
       "minecraft:vindicator": "2024-12-11 20:55:54 +0000",
+      "minecraft:magma_cube": "2024-12-14 15:57:08 +0000",
       "minecraft:spider": "2024-12-10 19:25:04 +0000",
       "minecraft:creeper": "2024-12-10 19:38:02 +0000",
       "minecraft:slime": "2024-12-12 10:35:31 +0000",
       "minecraft:evoker": "2024-12-14 13:48:28 +0000",
       "minecraft:phantom": "2024-12-11 21:02:28 +0000",
       "minecraft:witch": "2024-12-13 23:39:51 +0000",
+      "minecraft:wither_skeleton": "2024-12-14 16:05:06 +0000",
       "minecraft:enderman": "2024-12-11 00:10:39 +0000",
       "minecraft:zombie": "2024-12-10 19:41:52 +0000",
       "minecraft:drowned": "2024-12-14 13:38:59 +0000"
@@ -2715,6 +2718,12 @@
   "ic2:mv_loader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-14 16:05:32 +0000"
     },
     "done": true
   },
