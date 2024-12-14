@@ -3881,3 +3881,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 14:14:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> los phantom no me dejan trabajar
 [14Dec2024 14:15:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has completed the challenge [Village Defender]
 [14Dec2024 14:15:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> timbero
+[14Dec2024 14:16:16.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has completed the challenge [Premium!]
+[14Dec2024 14:16:32.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> el unico premium que vas a tener
+[14Dec2024 14:16:37.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[14Dec2024 14:17:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> naa
+[14Dec2024 14:17:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> yo quiero el VIP del casi
+[14Dec2024 14:17:36.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$MonitorType
+[14Dec2024 14:17:36.554] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/ImageInfo$ImageType
+[14Dec2024 14:17:36.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ContinuousType
+[14Dec2024 14:17:36.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 14:17:36.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 14:17:36.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 14:17:36.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 14:17:36.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=108, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Dec2024 14:17:36.694] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[14Dec2024 14:17:36.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[14Dec2024 14:17:36.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[14Dec2024 14:17:39.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/capability/Slots
+[14Dec2024 14:18:13.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=684, y=57, z=105} BlockPos{x=684, y=56, z=105}
+[14Dec2024 14:18:13.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=684, y=57, z=105} BlockPos{x=684, y=56, z=105}
+[14Dec2024 14:18:13.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=684, y=57, z=105} BlockPos{x=684, y=56, z=105}
+[14Dec2024 14:18:13.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=684, y=57, z=105} BlockPos{x=684, y=56, z=105}
