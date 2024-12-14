@@ -546,6 +546,12 @@
     },
     "done": false
   },
+  "ic2:obsidian_magma_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:59:14 +0000"
+    },
+    "done": true
+  },
   "ic2:re_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
@@ -1754,6 +1760,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 21:54:30 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_cold_green_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 21:13:36 +0000"
@@ -2344,6 +2356,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 21:54:12 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ahoy": {
     "criteria": {
       "entered_pirate_ship": "2024-12-14 13:40:34 +0000"
@@ -2461,6 +2479,12 @@
   "ic2:wooden_scaffold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-12-14 21:54:03 +0000"
     },
     "done": true
   },
