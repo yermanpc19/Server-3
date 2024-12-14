@@ -688,6 +688,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-14 20:57:12 +0000"
+    },
+    "done": true
+  },
   "ic2:coal_ball_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:48:08 +0000"
@@ -2336,7 +2342,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-14 20:53:10 +0000"
+      "requirement": "2024-12-14 21:00:07 +0000"
     },
     "done": false
   },
@@ -5660,6 +5666,12 @@
   "ic2:mv_unloader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 20:57:12 +0000"
     },
     "done": true
   },

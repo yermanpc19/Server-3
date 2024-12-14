@@ -1199,6 +1199,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 20:53:29 +0000"
+    },
+    "done": true
+  },
   "ic2:vent_steam_overclocked_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:43:23 +0000"
@@ -1825,6 +1831,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_black_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 20:53:29 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 19:38:43 +0000"
@@ -1996,6 +2008,12 @@
   "ic2:detector_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_black": {
+    "criteria": {
+      "has_wool": "2024-12-14 20:53:29 +0000"
     },
     "done": true
   },
