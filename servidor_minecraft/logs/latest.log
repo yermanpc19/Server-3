@@ -3806,3 +3806,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 00:42:50.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [15Dec2024 00:43:38.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
 [15Dec2024 00:44:15.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Dec2024 00:49:00.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[15Dec2024 00:50:27.372] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 00:50:27.373] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 00:50:27.515] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 00:50:27.516] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 00:50:27.556] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 00:50:27.557] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 00:50:27.557] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 00:50:27.558] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 00:50:27.558] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 00:50:27.558] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 00:50:27.558] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 00:50:27.559] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 00:50:27.692] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 00:50:27.692] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 00:50:27.693] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 00:50:27.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30da8967
+[15Dec2024 00:50:27.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:33483] logged in with entity id 2376 at (-55.19135467800365, 106.0, -301.1288830010722)
+[15Dec2024 00:50:27.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[15Dec2024 00:50:28.000] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[15Dec2024 00:50:28.029] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[15Dec2024 00:50:28.029] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 00:50:28.031] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[15Dec2024 00:51:11.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[15Dec2024 00:51:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[15Dec2024 00:53:48.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elmo'/1488, l='ServerLevel[world]', x=193.82, y=61.00, z=-840.42] died, message: 'Elmo suffocated in a wall'
+[15Dec2024 00:53:48.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elmo'/1488, l='ServerLevel[world]', x=193.82, y=61.00, z=-840.42] died: Elmo suffocated in a wall
+[15Dec2024 00:54:14.392] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[15Dec2024 00:56:35.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
