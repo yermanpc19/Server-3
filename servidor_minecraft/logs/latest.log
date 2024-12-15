@@ -3873,3 +3873,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 01:18:59.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que asco
 [15Dec2024 01:19:39.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [15Dec2024 01:31:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> assa
+[15Dec2024 01:42:33.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of YermanPC) moved wrongly! 0.9835377261930489
+[15Dec2024 01:42:44.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsafsa
+[15Dec2024 01:43:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 01:43:43.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[15Dec2024 01:43:45.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:53.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:54.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:56.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
+[15Dec2024 01:43:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Lava Bucket] to YermanPC]
