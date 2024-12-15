@@ -4092,3 +4092,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 02:38:30.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [15Dec2024 02:38:30.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [15Dec2024 02:38:30.281] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[15Dec2024 02:38:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fas
+[15Dec2024 02:39:15.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> f
+[15Dec2024 02:45:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [The Parrots and the Bats]
+[15Dec2024 02:46:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
