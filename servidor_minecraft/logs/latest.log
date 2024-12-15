@@ -4006,3 +4006,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 02:16:33.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> Ya vengo
 [15Dec2024 02:16:34.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
 [15Dec2024 02:16:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[15Dec2024 02:20:54.907] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 02:20:54.939] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 02:20:54.939] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 02:20:55.008] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 02:20:55.043] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 02:20:55.163] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 02:20:55.163] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 02:20:55.163] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 02:20:55.282] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 02:20:55.288] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 02:20:55.401] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 02:20:55.401] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 02:20:55.522] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 02:20:55.523] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 02:20:55.523] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 02:20:55.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43a0baff
+[15Dec2024 02:20:55.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:34715] logged in with entity id 30390 at (-102.74420593669808, 55.0, -836.5941128391237)
+[15Dec2024 02:20:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[15Dec2024 02:20:55.681] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[15Dec2024 02:20:55.703] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[15Dec2024 02:20:55.703] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 02:20:55.704] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[15Dec2024 02:21:14.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> volvi
+[15Dec2024 02:25:13.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 02:25:26.826] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[15Dec2024 02:25:30.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[15Dec2024 02:28:03.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
