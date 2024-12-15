@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-15 13:55:14 +0000"
+    },
+    "done": true
+  },
   "ic2:crafter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:52:48 +0000"
