@@ -3891,3 +3891,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 13:40:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> los pelotudos del apocalipsis estaria bueno ver
 [15Dec2024 13:40:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> cual es esa
 [15Dec2024 13:40:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> asi se llama?
+[15Dec2024 13:41:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> ya te diho
+[15Dec2024 13:42:24.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> nada que ver la quet e dije
+[15Dec2024 13:42:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> yo tedigo de un pelotudo con un hacha pesadisima
+[15Dec2024 13:42:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> Bleach?
+[15Dec2024 13:43:08.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> siete pecados capitales
+[15Dec2024 13:43:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> esa es
+[15Dec2024 13:43:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> me dijeron que ver anime te hace mas fuerte'
+[15Dec2024 13:44:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> tiene sentido
+[15Dec2024 13:44:29.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> o era diabetico
+[15Dec2024 13:45:54.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[15Dec2024 13:46:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> en crunchy crunchy no estan todas las peliculas
+[15Dec2024 13:46:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> solo está la primera
+[15Dec2024 13:46:25.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> ::(
+[15Dec2024 13:46:53.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> pero si estan todas las temporadas
+[15Dec2024 13:47:09.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=15, z=2} BlockPos{x=726, y=15, z=4}
+[15Dec2024 13:47:09.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=15, z=2} BlockPos{x=726, y=15, z=4}
+[15Dec2024 13:47:09.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=15, z=2} BlockPos{x=726, y=15, z=4}
+[15Dec2024 13:47:11.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=15, z=-1} BlockPos{x=726, y=15, z=1}
+[15Dec2024 13:47:15.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=15, z=-5} BlockPos{x=719, y=15, z=-6}
+[15Dec2024 13:48:10.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=712, y=15, z=3} BlockPos{x=709, y=15, z=1}
+[15Dec2024 13:48:25.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=710, y=15, z=13} BlockPos{x=708, y=15, z=14}
+[15Dec2024 13:48:56.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=15, z=-14} BlockPos{x=702, y=15, z=-16}
+[15Dec2024 13:48:56.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=15, z=-15} BlockPos{x=702, y=15, z=-16}
+[15Dec2024 13:48:56.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=15, z=-15} BlockPos{x=702, y=15, z=-16}
+[15Dec2024 13:48:57.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=697, y=15, z=-17} BlockPos{x=699, y=15, z=-17}
+[15Dec2024 13:49:09.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=15, z=-2} BlockPos{x=678, y=15, z=-4}
+[15Dec2024 13:49:09.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=679, y=15, z=-2} BlockPos{x=678, y=15, z=-4}
+[15Dec2024 13:49:09.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=679, y=15, z=-2} BlockPos{x=678, y=15, z=-4}
+[15Dec2024 13:49:09.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=679, y=15, z=-2} BlockPos{x=678, y=15, z=-4}
+[15Dec2024 13:49:09.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=679, y=15, z=-1} BlockPos{x=678, y=15, z=-4}
+[15Dec2024 13:49:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> cual es la mejora para que las cosas cuando no tenes mas espacio vaya a la mochil?
+[15Dec2024 13:50:05.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=15, z=9} BlockPos{x=672, y=15, z=11}
+[15Dec2024 13:50:05.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=672, y=15, z=9} BlockPos{x=672, y=15, z=11}
+[15Dec2024 13:51:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> supongo que la de iman
+[15Dec2024 13:51:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> y la de recogida
+[15Dec2024 13:51:48.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=651, y=15, z=11} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=651, y=15, z=11} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=651, y=15, z=11} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=10} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=15, z=9} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=15, z=9} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=15, z=9} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=8} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=8} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=8} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=15, z=7} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:48.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=6} BlockPos{x=651, y=15, z=12}
+[15Dec2024 13:51:49.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=649, y=15, z=6} BlockPos{x=651, y=15, z=12}
