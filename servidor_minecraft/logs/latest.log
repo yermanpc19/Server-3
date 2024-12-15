@@ -4117,3 +4117,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 14:53:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> ...
 [15Dec2024 14:53:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> y no llevaste?
 [15Dec2024 14:53:22.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> tengo para hacerme
+[15Dec2024 14:54:00.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> nv
+[15Dec2024 14:54:01.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[15Dec2024 14:54:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
