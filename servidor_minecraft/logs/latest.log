@@ -4145,3 +4145,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 16:24:29.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [15Dec2024 16:24:37.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
 [15Dec2024 16:24:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[15Dec2024 16:28:57.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[15Dec2024 16:28:57.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
