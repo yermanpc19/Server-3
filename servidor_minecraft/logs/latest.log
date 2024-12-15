@@ -4061,3 +4061,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
 [15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[15Dec2024 14:14:30.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=20, z=202} BlockPos{x=138, y=21, z=203}
+[15Dec2024 14:14:37.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
+[15Dec2024 14:15:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> pero que pedazo de verga la concha de mi madre
+[15Dec2024 14:15:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> gracias
+[15Dec2024 14:16:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> se me rompio de onda una maquina
+[15Dec2024 14:16:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> chau mis materiales
+[15Dec2024 14:16:20.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> si pueden no exploren porfis
+[15Dec2024 14:16:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> estoy construyendo algo y me puedo matar
+[15Dec2024 14:16:33.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> si no coloca bloque
+[15Dec2024 14:16:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> queres irte de exploracion vito? asi te despejas por la perdida de tus materiales
+[15Dec2024 14:16:59.158] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-120, y=24, z=29}
+[15Dec2024 14:17:04.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> dungeon?
+[15Dec2024 14:17:16.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> vos vas al norte y yo al sur, a 500km por minuto
+[15Dec2024 14:17:43.654] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-120, y=24, z=29}
+[15Dec2024 14:18:25.430] [Server thread/WARN] [net.minecraft.world.entity.boss.enderdragon.phases.DragonStrafePlayerPhase/]: Skipping player strafe phase because no player was found
+[15Dec2024 14:20:54.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[15Dec2024 14:20:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro tried to swim in lava
+[15Dec2024 14:20:54.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[15Dec2024 14:20:54.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[15Dec2024 14:20:54.449] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[15Dec2024 14:20:54.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[15Dec2024 14:20:54.476] [Server thread/INFO] [tombstone/]: The player ClementePicaro has successfully been saved
+[15Dec2024 14:20:56.330] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Dec2024 14:21:00.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[15Dec2024 14:21:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> que tonto
+[15Dec2024 14:21:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Those Were the Days]
+[15Dec2024 14:21:13.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> puede pasar
