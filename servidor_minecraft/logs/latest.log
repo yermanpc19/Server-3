@@ -4106,3 +4106,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 03:00:14.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/network/tile/PacketRange
 [15Dec2024 03:00:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Torch] to YermanPC]
 [15Dec2024 03:02:53.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fas
+[15Dec2024 03:10:40.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[15Dec2024 03:14:39.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
+[15Dec2024 03:18:05.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> -57 -283
