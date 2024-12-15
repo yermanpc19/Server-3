@@ -3835,3 +3835,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 00:53:48.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elmo'/1488, l='ServerLevel[world]', x=193.82, y=61.00, z=-840.42] died: Elmo suffocated in a wall
 [15Dec2024 00:54:14.392] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
 [15Dec2024 00:56:35.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[15Dec2024 00:57:13.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[15Dec2024 00:58:27.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[15Dec2024 01:01:54.560] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15Dec2024 01:06:54.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy

@@ -3576,6 +3576,12 @@
     },
     "done": true
   },
+  "ic2:electric_treetap_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 00:57:52 +0000"
+    },
+    "done": true
+  },
   "ic2:batbox_minecart_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 19:31:31 +0000"
@@ -4611,6 +4617,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-12-09 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_crop_library_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 00:57:52 +0000"
     },
     "done": true
   },
