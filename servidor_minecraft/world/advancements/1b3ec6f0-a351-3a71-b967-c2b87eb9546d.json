@@ -1048,6 +1048,12 @@
     },
     "done": true
   },
+  "ic2:mug_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 03:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-09 03:18:10 +0000"
@@ -5272,6 +5278,12 @@
   "ic2:import_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_milk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 03:53:14 +0000"
     },
     "done": true
   },
