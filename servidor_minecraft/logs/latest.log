@@ -4033,3 +4033,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 02:25:26.826] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
 [15Dec2024 02:25:30.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
 [15Dec2024 02:28:03.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Dec2024 02:28:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[15Dec2024 02:29:56.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[15Dec2024 02:31:27.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[15Dec2024 02:31:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[15Dec2024 02:34:26.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[15Dec2024 02:34:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[15Dec2024 02:34:49.448] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 02:34:49.448] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 02:34:50.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 02:34:50.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 02:34:50.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 02:34:50.993] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 02:34:51.672] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 02:34:51.672] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 02:34:51.672] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 02:34:51.776] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f92644
+[15Dec2024 02:34:51.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:36089] logged in with entity id 36956 at (-78.30000001192093, 106.0, -306.2381201198493)
+[15Dec2024 02:34:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[15Dec2024 02:34:51.926] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[15Dec2024 02:34:51.950] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[15Dec2024 02:34:51.951] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 02:34:51.951] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[15Dec2024 02:35:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 02:35:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 02:35:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ffff
+[15Dec2024 02:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fgff
+[15Dec2024 02:35:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> f
+[15Dec2024 02:35:34.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> gd
+[15Dec2024 02:35:40.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[15Dec2024 02:35:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[15Dec2024 02:36:37.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46355a14[id=<null>,name=YermanPC,properties={},legacy=false] (/127.51.19.16:45169) lost connection: Disconnected
+[15Dec2024 02:38:28.373] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 02:38:28.373] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 02:38:29.477] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 02:38:29.477] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 02:38:29.589] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 02:38:29.589] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 02:38:29.589] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 02:38:29.589] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 02:38:29.593] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 02:38:29.593] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 02:38:29.593] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 02:38:29.593] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 02:38:30.053] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 02:38:30.053] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 02:38:30.053] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 02:38:30.140] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@355f0d01
+[15Dec2024 02:38:30.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:37893] logged in with entity id 37186 at (-73.71158273886033, 106.0, -296.17048476234294)
+[15Dec2024 02:38:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[15Dec2024 02:38:30.240] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[15Dec2024 02:38:30.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[15Dec2024 02:38:30.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 02:38:30.281] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
