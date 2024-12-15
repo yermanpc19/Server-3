@@ -4018,3 +4018,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 13:58:04.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=574, y=15, z=4} BlockPos{x=578, y=15, z=7}
 [15Dec2024 13:58:04.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=573, y=15, z=3} BlockPos{x=578, y=15, z=7}
 [15Dec2024 13:59:24.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4473ms or 89 ticks behind
+[15Dec2024 14:02:41.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/handler/AccessRule
+[15Dec2024 14:02:41.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/energy/tile/IEnergySource$SourceType
+[15Dec2024 14:02:42.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/network/buffer/NetworkInfo$BitLevel
+[15Dec2024 14:02:42.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$MonitorType
+[15Dec2024 14:02:42.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/ImageInfo$ImageType
+[15Dec2024 14:02:42.718] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ContinuousType
+[15Dec2024 14:02:42.761] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[15Dec2024 14:02:42.761] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[15Dec2024 14:02:42.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[15Dec2024 14:02:42.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[15Dec2024 14:02:44.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/capability/Slots
+[15Dec2024 14:02:44.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[15Dec2024 14:02:44.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[15Dec2024 14:02:44.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[15Dec2024 14:02:48.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[15Dec2024 14:03:05.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[15Dec2024 14:03:14.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/crops/ICrop$CropType
+[15Dec2024 14:03:24.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[15Dec2024 14:04:13.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=56, z=95} BlockPos{x=-75, y=54, z=96}
+[15Dec2024 14:04:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=56, z=95} BlockPos{x=-75, y=54, z=96}
+[15Dec2024 14:04:37.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[15Dec2024 14:10:21.649] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 14:10:21.689] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 14:10:21.824] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 14:10:21.842] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 14:10:21.843] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 14:10:22.107] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 14:10:22.107] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 14:10:22.109] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 14:10:22.110] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 14:10:22.118] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 14:10:22.119] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 14:10:22.204] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 14:10:22.205] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 14:10:22.385] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 14:10:22.386] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 14:10:22.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c1350b2
+[15Dec2024 14:10:22.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:53787] logged in with entity id 42777 at (-363.7231085493234, 71.0, -268.07453702377813)
+[15Dec2024 14:10:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[15Dec2024 14:10:22.701] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 14:10:22.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro

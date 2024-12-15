@@ -1929,6 +1929,12 @@
     },
     "done": true
   },
+  "ic2:miner_remote_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 14:03:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-12 21:13:51 +0000"
@@ -4112,6 +4118,12 @@
     },
     "done": true
   },
+  "ic2:efficiency_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 14:03:11 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_treetap_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 21:39:44 +0000"
@@ -4749,6 +4761,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-15 14:02:14 +0000",
       "cooked_mutton": "2024-12-11 00:37:51 +0000",
       "cooked_beef": "2024-12-10 14:25:01 +0000",
       "baked_potato": "2024-12-10 01:14:24 +0000",
