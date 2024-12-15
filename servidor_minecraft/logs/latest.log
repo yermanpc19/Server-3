@@ -3815,3 +3815,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 13:05:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> preparate
 [15Dec2024 13:05:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> ya cargo
 [15Dec2024 13:05:36.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[15Dec2024 13:14:31.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[15Dec2024 13:20:03.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
