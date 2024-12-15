@@ -4096,3 +4096,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 02:39:15.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> f
 [15Dec2024 02:45:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [The Parrots and the Bats]
 [15Dec2024 02:46:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 02:49:17.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[15Dec2024 02:50:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [A Seedy Place]
+[15Dec2024 02:52:31.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[15Dec2024 02:52:31.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[15Dec2024 02:52:37.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[15Dec2024 02:53:20.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction

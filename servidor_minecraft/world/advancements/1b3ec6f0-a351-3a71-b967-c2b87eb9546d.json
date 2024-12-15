@@ -2017,6 +2017,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:fox": "2024-12-15 02:45:13 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_1_4": {
     "criteria": {
       "requirement1": "2024-12-09 03:49:33 +0000",
@@ -2412,6 +2418,12 @@
       "hasItem": "2024-12-14 07:54:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-15 02:54:22 +0000"
+    },
+    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
@@ -4769,6 +4781,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-15 02:50:20 +0000"
+    },
+    "done": true
+  },
   "ic2:rare_earth_extractor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:22:48 +0000"
@@ -5950,7 +5968,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-12-09 17:52:51 +0000",
-      "sugar_cane": "2024-12-12 04:15:49 +0000"
+      "sugar_cane": "2024-12-12 04:15:49 +0000",
+      "wheat": "2024-12-15 02:50:20 +0000"
     },
     "done": false
   },
@@ -6545,6 +6564,12 @@
   "ic2:build_recycler": {
     "criteria": {
       "hasItem": "2024-12-13 04:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-15 02:45:13 +0000"
     },
     "done": true
   },
