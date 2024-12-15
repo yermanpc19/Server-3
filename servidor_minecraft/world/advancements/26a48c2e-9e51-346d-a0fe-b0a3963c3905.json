@@ -3629,6 +3629,7 @@
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",
       "minecraft:silverfish": "2024-12-10 01:29:11 +0000",
       "minecraft:stray": "2024-12-13 03:17:09 +0000",
+      "minecraft:endermite": "2024-12-15 13:29:27 +0000",
       "minecraft:vex": "2024-12-13 02:53:50 +0000",
       "minecraft:zombie": "2024-12-09 03:04:31 +0000",
       "quark:foxhound": "2024-12-13 22:51:55 +0000",
@@ -3757,6 +3758,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-15 13:29:21 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_carpet_purple_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 03:36:07 +0000"
@@ -3814,6 +3821,12 @@
   "ic2:2x_insulated_bronze_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-15 13:30:02 +0000"
     },
     "done": true
   },
@@ -5837,6 +5850,12 @@
   "ic2:2x_insulated_iron_cable_1x_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-15 13:30:02 +0000"
     },
     "done": true
   },
