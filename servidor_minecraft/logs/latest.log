@@ -3839,3 +3839,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 00:58:27.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [15Dec2024 01:01:54.560] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [15Dec2024 01:06:54.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Dec2024 01:14:35.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.51.19.16:42071 lost connection: Disconnected
+[15Dec2024 01:14:49.046] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[15Dec2024 01:14:49.092] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[15Dec2024 01:14:49.274] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[15Dec2024 01:14:49.275] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[15Dec2024 01:14:49.302] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[15Dec2024 01:14:49.302] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[15Dec2024 01:14:49.303] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[15Dec2024 01:14:49.490] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[15Dec2024 01:14:49.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[15Dec2024 01:14:49.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[15Dec2024 01:14:49.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[15Dec2024 01:14:49.546] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[15Dec2024 01:14:49.646] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[15Dec2024 01:14:49.647] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[15Dec2024 01:14:49.690] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[15Dec2024 01:14:49.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64072a36
+[15Dec2024 01:14:49.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:59405] logged in with entity id 5571 at (-54.46336490479935, 106.0, -285.3435662757819)
+[15Dec2024 01:14:49.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[15Dec2024 01:14:49.871] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[15Dec2024 01:14:49.897] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[15Dec2024 01:14:49.898] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 01:14:49.899] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[15Dec2024 01:15:37.451] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[15Dec2024 01:17:57.980] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[15Dec2024 01:17:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[15Dec2024 01:18:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asfasfsafas
+[15Dec2024 01:18:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasfasf
+[15Dec2024 01:18:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsafsa
+[15Dec2024 01:18:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que chota estas haciendo que hay lag
+[15Dec2024 01:18:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> soy yo parece
+[15Dec2024 01:18:59.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que asco
+[15Dec2024 01:19:39.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
