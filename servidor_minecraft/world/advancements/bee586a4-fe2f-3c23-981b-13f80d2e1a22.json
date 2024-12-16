@@ -826,7 +826,8 @@
       "minecraft:piglin": "2024-12-15 14:32:49 +0000",
       "minecraft:enderman": "2024-12-11 00:10:39 +0000",
       "minecraft:zombie": "2024-12-10 19:41:52 +0000",
-      "minecraft:drowned": "2024-12-14 13:38:59 +0000"
+      "minecraft:drowned": "2024-12-14 13:38:59 +0000",
+      "minecraft:zombie_villager": "2024-12-16 01:31:10 +0000"
     },
     "done": false
   },
@@ -1518,6 +1519,12 @@
   "ic2:hydrated_charcoal_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:31:44 +0000"
     },
     "done": true
   },
@@ -3049,6 +3056,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:31:44 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -3245,6 +3258,12 @@
   "ic2:vent_steam_adv_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_gray": {
+    "criteria": {
+      "has_wool": "2024-12-16 01:31:44 +0000"
     },
     "done": true
   },
