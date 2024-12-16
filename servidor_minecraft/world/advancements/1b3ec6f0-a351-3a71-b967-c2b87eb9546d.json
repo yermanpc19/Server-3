@@ -2425,6 +2425,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-16 00:50:20 +0000"
+    },
+    "done": false
+  },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"

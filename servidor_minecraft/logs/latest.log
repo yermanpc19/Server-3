@@ -167,3 +167,32 @@
 [16Dec2024 00:34:50.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> saas
 [16Dec2024 00:35:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
 [16Dec2024 00:39:03.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fas
+[16Dec2024 00:44:36.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[16Dec2024 00:44:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[16Dec2024 00:48:34.320] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[16Dec2024 00:48:34.321] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[16Dec2024 00:48:34.321] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[16Dec2024 00:48:34.321] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[16Dec2024 00:48:34.532] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[16Dec2024 00:48:34.557] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[16Dec2024 00:48:34.557] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[16Dec2024 00:48:34.557] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[16Dec2024 00:48:34.719] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[16Dec2024 00:48:34.720] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[16Dec2024 00:48:34.720] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[16Dec2024 00:48:34.852] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[16Dec2024 00:48:34.878] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[16Dec2024 00:48:34.886] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[16Dec2024 00:48:35.212] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[16Dec2024 00:48:35.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@474af8c8
+[16Dec2024 00:48:35.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.100.183.45:58443] logged in with entity id 24683 at (-81.32124518739752, 120.5, -298.9896762382548)
+[16Dec2024 00:48:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[16Dec2024 00:48:35.434] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[16Dec2024 00:48:35.454] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[16Dec2024 00:48:35.454] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 00:48:35.454] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[16Dec2024 00:49:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asfasf
+[16Dec2024 00:49:19.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[16Dec2024 00:49:19.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[16Dec2024 00:49:26.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6339ms or 126 ticks behind
+[16Dec2024 00:49:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> t
