@@ -4727,6 +4727,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-10 03:27:25 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-16 01:23:13 +0000",
       "minecraft:taiga": "2024-12-09 22:41:54 +0000",
       "minecraft:deep_ocean": "2024-12-10 00:08:16 +0000",
       "minecraft:frozen_river": "2024-12-09 19:36:57 +0000",
@@ -4746,6 +4747,7 @@
       "minecraft:windswept_forest": "2024-12-09 22:43:41 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-10 03:27:46 +0000",
       "minecraft:ocean": "2024-12-10 00:04:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-16 01:23:19 +0000",
       "minecraft:snowy_beach": "2024-12-09 21:31:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-16 01:18:58 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 21:27:21 +0000",
