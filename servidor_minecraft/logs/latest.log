@@ -196,3 +196,65 @@
 [16Dec2024 00:49:19.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
 [16Dec2024 00:49:26.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6339ms or 126 ticks behind
 [16Dec2024 00:49:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> t
+[16Dec2024 00:55:29.870] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[16Dec2024 00:55:29.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[16Dec2024 00:55:29.989] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[16Dec2024 00:55:30.045] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[16Dec2024 00:55:30.068] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[16Dec2024 00:55:30.217] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[16Dec2024 00:55:30.217] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[16Dec2024 00:55:30.217] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[16Dec2024 00:55:30.386] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[16Dec2024 00:55:30.426] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[16Dec2024 00:55:30.426] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[16Dec2024 00:55:30.547] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[16Dec2024 00:55:30.547] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[16Dec2024 00:55:30.547] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[16Dec2024 00:55:30.759] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[16Dec2024 00:55:30.833] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f75a367
+[16Dec2024 00:55:30.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElCachita_HD[/127.185.219.29:33681] logged in with entity id 26933 at (-345.4153339115486, 71.0, -306.69267341058713)
+[16Dec2024 00:55:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD joined the game
+[16Dec2024 00:55:30.916] [Server thread/INFO] [Jade/]: Syncing config to ElCachita_HD (26a48c2e-9e51-346d-a0fe-b0a3963c3905)
+[16Dec2024 00:55:30.935] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ElCachita_HD...
+[16Dec2024 00:55:30.936] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 00:55:30.936] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ElCachita_HD
+[16Dec2024 00:55:48.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[16Dec2024 00:56:01.486] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[16Dec2024 00:56:25.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16Dec2024 00:56:43.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[16Dec2024 00:57:11.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Dec2024 00:57:39.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16Dec2024 00:58:00.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
+[16Dec2024 00:58:19.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[16Dec2024 00:58:37.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[16Dec2024 00:58:57.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4323ms or 86 ticks behind
+[16Dec2024 00:59:17.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4983ms or 99 ticks behind
+[16Dec2024 00:59:21.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
+[16Dec2024 00:59:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[16Dec2024 01:00:45.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[16Dec2024 01:00:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[16Dec2024 01:00:54.498] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[16Dec2024 01:00:54.624] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[16Dec2024 01:00:54.624] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[16Dec2024 01:00:54.681] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[16Dec2024 01:00:54.681] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[16Dec2024 01:00:54.860] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[16Dec2024 01:00:54.861] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[16Dec2024 01:00:54.861] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[16Dec2024 01:00:54.861] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[16Dec2024 01:00:55.015] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[16Dec2024 01:00:55.058] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[16Dec2024 01:00:55.077] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[16Dec2024 01:00:55.196] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[16Dec2024 01:00:55.196] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[16Dec2024 01:00:55.500] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[16Dec2024 01:00:55.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45c35e68
+[16Dec2024 01:00:55.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:58133] logged in with entity id 33020 at (-33.10139724192218, 76.0, 27.18258514591038)
+[16Dec2024 01:00:55.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[16Dec2024 01:00:55.660] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[16Dec2024 01:00:55.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[16Dec2024 01:00:55.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 01:00:55.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[16Dec2024 01:01:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[16Dec2024 01:03:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [The Work is Humming]
+[16Dec2024 01:03:32.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/util/I18N
