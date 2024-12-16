@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/dt_2": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 01:03:32 +0000"
+    },
+    "done": true
+  },
   "corail_dt:tutorial/dt_1": {
     "criteria": {
       "coded_trigger": "2024-12-12 16:54:31 +0000"
@@ -691,6 +697,12 @@
   "ic2:rubber_boat_repair_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 01:15:57 +0000"
     },
     "done": true
   },
@@ -1483,6 +1495,12 @@
       "hasItem": "2024-12-09 03:16:45 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-16 01:15:57 +0000"
+    },
+    "done": false
   },
   "ic2:insulated_iron_cable_0_recipe_advancement": {
     "criteria": {
@@ -3273,6 +3291,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-16 01:18:38 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -3907,6 +3931,7 @@
       "seasonal_forest": "2024-12-09 02:48:54 +0000",
       "fir_clearing": "2024-12-10 00:26:48 +0000",
       "pumpkin_patch": "2024-12-09 03:03:36 +0000",
+      "grassland": "2024-12-16 01:19:02 +0000",
       "snowy_coniferous_forest": "2024-12-09 19:37:35 +0000",
       "snowy_fir_clearing": "2024-12-09 19:37:05 +0000",
       "tundra": "2024-12-09 02:48:38 +0000",
@@ -3942,6 +3967,12 @@
   "ic2:carbon_boat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-12-16 01:15:57 +0000"
     },
     "done": true
   },
@@ -4716,6 +4747,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-10 03:27:46 +0000",
       "minecraft:ocean": "2024-12-10 00:04:33 +0000",
       "minecraft:snowy_beach": "2024-12-09 21:31:09 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-16 01:18:58 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 21:27:21 +0000",
       "minecraft:plains": "2024-12-09 02:46:37 +0000"
     },

@@ -258,3 +258,14 @@
 [16Dec2024 01:01:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
 [16Dec2024 01:03:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [The Work is Humming]
 [16Dec2024 01:03:32.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/util/I18N
+[16Dec2024 01:06:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Energy Flow]
+[16Dec2024 01:12:15.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of YermanPC) moved wrongly! 0.34174490247494305
+[16Dec2024 01:12:15.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of YermanPC) moved wrongly! 0.9508557348100339
+[16Dec2024 01:18:16.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[16Dec2024 01:18:38.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Sunken City]
+[16Dec2024 01:18:59.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[16Dec2024 01:19:52.224] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[16Dec2024 01:19:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ff
+[16Dec2024 01:19:52.908] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[16Dec2024 01:19:52.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[16Dec2024 01:22:32.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
