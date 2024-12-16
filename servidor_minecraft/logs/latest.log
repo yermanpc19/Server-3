@@ -6,3 +6,14 @@
 [16Dec2024 00:01:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ff
 [16Dec2024 00:01:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ff
 [16Dec2024 00:01:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fffff
+[16Dec2024 00:02:56.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[16Dec2024 00:03:46.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[16Dec2024 00:03:56.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=102, z=121} BlockPos{x=33, y=105, z=123}
+[16Dec2024 00:04:00.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=101, z=116} BlockPos{x=33, y=101, z=115}
+[16Dec2024 00:04:00.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=101, z=116} BlockPos{x=33, y=101, z=115}
+[16Dec2024 00:04:04.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=92, z=104} BlockPos{x=33, y=91, z=106}
+[16Dec2024 00:04:17.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=92, z=104} BlockPos{x=33, y=92, z=103}
+[16Dec2024 00:07:31.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[16Dec2024 00:08:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ff
+[16Dec2024 00:11:53.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
+[16Dec2024 00:12:09.080] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
