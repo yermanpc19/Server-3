@@ -2258,6 +2258,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 01:51:54 +0000"
+    },
+    "done": true
+  },
   "ic2:miner_remote_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:50:53 +0000"
@@ -2951,6 +2957,12 @@
   "ic2:vent_electric_adv_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 01:55:17 +0000"
     },
     "done": true
   },
