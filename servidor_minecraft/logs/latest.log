@@ -309,3 +309,40 @@
 [16Dec2024 01:44:38.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [16Dec2024 01:44:38.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ElCachita_HD
 [16Dec2024 01:45:07.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[16Dec2024 01:46:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has reached the goal [Great minds think alike]
+[16Dec2024 01:46:13.118] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[16Dec2024 01:46:13.220] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[16Dec2024 01:46:13.221] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[16Dec2024 01:46:13.340] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[16Dec2024 01:46:13.372] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[16Dec2024 01:46:13.459] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[16Dec2024 01:46:13.459] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[16Dec2024 01:46:13.460] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[16Dec2024 01:46:13.578] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[16Dec2024 01:46:13.578] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[16Dec2024 01:46:13.644] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[16Dec2024 01:46:13.699] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[16Dec2024 01:46:13.742] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[16Dec2024 01:46:13.791] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[16Dec2024 01:46:13.835] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[16Dec2024 01:46:13.932] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c501c37
+[16Dec2024 01:46:13.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:50637] logged in with entity id 64782 at (-356.42024479050247, 71.0, -275.92778743735005)
+[16Dec2024 01:46:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[16Dec2024 01:46:14.057] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[16Dec2024 01:46:14.081] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[16Dec2024 01:46:14.082] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 01:46:14.083] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[16Dec2024 01:48:08.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[16Dec2024 01:51:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has completed the challenge [Village Defender]
+[16Dec2024 01:52:17.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elicia'/67036, l='ServerLevel[world]', x=212.70, y=65.46, z=-840.51] died, message: 'Elicia suffocated in a wall'
+[16Dec2024 01:52:17.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elicia'/67036, l='ServerLevel[world]', x=212.70, y=65.46, z=-840.51] died: Elicia suffocated in a wall
+[16Dec2024 01:52:54.227] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[16Dec2024 01:53:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> WTZ
+[16Dec2024 01:55:17.947] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[16Dec2024 01:55:17.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has completed the challenge [Almost Unkillable]
+[16Dec2024 01:55:17.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC was slain by Giant
+[16Dec2024 01:55:17.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[16Dec2024 01:55:17.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[16Dec2024 01:55:17.967] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[16Dec2024 01:55:17.994] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[16Dec2024 01:55:19.265] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
